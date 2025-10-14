@@ -18,13 +18,11 @@ class About extends Component {
           <img className='about-image' alt='My Photo' src={Me}></img>
           <div className='about-description'>
             <p className='item-subtitle'>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
-              quis tortor euismod, hendrerit orci id, euismod lorem. Donec
-              imperdiet, neque nec ullamcorper suscipit, velit mi accumsan
-              sapien, at pretium justo nisl in justo. Curabitur posuere
-              convallis leo nec volutpat. Donec eget magna ut mi varius
-              malesuada.
+              Hello! I'm a developer interested in creating innovative solutions and designing server-side logic. I enjoy learning new technologies and expanding my skillset. 
             </p>
+            <p className='item-subtitle'>
+              With my background as a Computer Science, I know there is no limit as to what I can learn. I strive to continually improve and make my work run smooth.
+              </p>
             <div>
               <h3 className='skill-title'>Skills & Technologies</h3>
               <div className="skill-list">

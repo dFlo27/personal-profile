@@ -19,25 +19,16 @@ function Resume() {
 
   const experience = [
     {
-      title: "Frontend Developer Intern",
-      company: "Tech Company Inc.",
-      period: "Summer 2023",
+      title: "Full Stack Developer",
+      company: "Lighthouse Project",
+      period: "Spring 2025",
       responsibilities: [
         "Developed responsive web applications using React and CSS",
         "Collaborated with design team to implement user interfaces",
-        "Optimized application performance and accessibility"
+        "Designed database structure and implemented authentication logic",
+        "Implemented AI features using Google Gemini"
       ]
     },
-    {
-      title: "Teaching Assistant",
-      company: "University CS Department",
-      period: "2022-2023",
-      responsibilities: [
-        "Assisted students with programming assignments and projects",
-        "Conducted lab sessions for introductory programming courses",
-        "Graded assignments and provided constructive feedback"
-      ]
-    }
   ];
 
   const skills = {
